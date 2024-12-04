@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gob.formulario.es/static/css/main.6c16ac76.css",
+    "main.js": "/gob.formulario.es/static/js/main.8eb6e02b.js",
+    "static/media/MCIU_header.svg": "/gob.formulario.es/static/media/MCIU_header.7360fa90cf49ec46fe2d109e367ef621.svg",
+    "index.html": "/gob.formulario.es/index.html",
+    "main.6c16ac76.css.map": "/gob.formulario.es/static/css/main.6c16ac76.css.map",
+    "main.8eb6e02b.js.map": "/gob.formulario.es/static/js/main.8eb6e02b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c16ac76.css",
+    "static/js/main.8eb6e02b.js"
+  ]
+}
